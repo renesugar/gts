@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.0.3](https://www.github.com/google/gts/compare/v3.0.2...v3.0.3) (2020-11-23)
+
+
+### Bug Fixes
+
+* **deps:** update dependency meow to v8 ([#591](https://www.github.com/google/gts/issues/591)) ([c7e223e](https://www.github.com/google/gts/commit/c7e223e6a2ff605fabad2f8359a0385033f8de66))
+
 ### [3.0.2](https://www.github.com/google/gts/compare/v3.0.1...v3.0.2) (2020-10-26)
 
 
